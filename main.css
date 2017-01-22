@@ -1,0 +1,53 @@
+body {
+  padding-top: 50px;
+}
+
+#admin {
+  padding-top: 0px;
+}
+
+hr {
+
+  border-top: 1px solid black;
+
+}
+
+input:focus {
+    background-color: #dff0d8;
+}
+input {
+  width: 50%;
+}
+
+.form-signin-heading {
+  padding: 1em;
+  background-color: #5cb85c;
+  color: white;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  text-align: center;
+  border: 1px solid #4cae4c;
+
+
+}
+
+.page-header {
+  background-color: #5cb85c;
+  padding: 1em;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+.page-header h1 small {
+  color: #477050;
+}
+
+div.red h2 small {
+  color: red;
+}
+
+
+div.red h4 {
+  background-color: yellow;
+  
+}
