@@ -1,5 +1,5 @@
 body {
-  
+  margin-top: 50px;
 }
 
 #admin {
@@ -31,7 +31,7 @@ input {
 
 }
 
-.page-header {
+.adminPanel {
   background-color: #5cb85c;
   padding: 1em;
   border-top-left-radius: 25px;

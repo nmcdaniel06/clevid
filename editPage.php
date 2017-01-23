@@ -41,7 +41,7 @@ $DBcon->close();
 
 <div class="container">
 
-  <div class="page-header">
+  <div class="page-header adminPanel">
   <h1>Clevid  <small>Admin Area</small></h1>
 </div>
 

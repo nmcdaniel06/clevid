@@ -23,7 +23,7 @@
     if($result) {
 
         $row = $result->fetch_object();
-        echo "<h2>" . $row->name . "</h2>";
+        //echo "<h2>" . $row->name . "</h2>";
         echo $row->content;
 
         }
@@ -31,17 +31,9 @@
 ?>
   </div><!--end left column------------------------------>
   <div class="col-md-3">
+    <a href="https://www.shopify.com/?ref=nathan-mcdaniel"> <img src="pics/shopify-partner.jpg" class="img-responsive" alt="Responsive image"></a>
 
-    <hr /><h3>Side Bar Menu</h3><hr>
-
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si longus, levis; Septem autem illi non suo, sed populorum suffragio omnium nominati sunt. Cum audissem Antiochum, Brute, ut solebam, cum M. Quam ob rem tandem, inquit, non satisfacit? Quamquam non negatis nos intellegere quid sit voluptas, .</p>
-
-    <hr />
-    <h4>Admin Info</h4>
-    <hr>
-    <p><a class="btn btn-default" href="login.php" role="button">Enter Admin Area</a></p>
-
-
+    <a href="https://www.shopify.com/?ref=nathan-mcdaniel"> <img src="pics/smshopify.jpg" class="img-responsive" alt="Responsive image"></a>
   </div><!--end right column----------------------------->
 
 
