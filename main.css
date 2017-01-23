@@ -1,5 +1,5 @@
 body {
-  padding-top: 50px;
+  
 }
 
 #admin {
@@ -49,5 +49,23 @@ div.red h2 small {
 
 div.red h4 {
   background-color: yellow;
-  
+
+}
+
+.page-header {
+  margin-bottom: 0px;
+  border-bottom: 0px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+  border-bottom: 0px;
+  border-radius: 0px;
+}
+
+.navbar-inverse {
+  margin-bottom: 0px;
+  border-bottom: 0px;
+  border-radius: 0px;
+
 }

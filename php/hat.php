@@ -19,10 +19,15 @@
   </head>
   <body>
     <div class="container">
+<!--header----------------------------->
+
+      <div class="page-header">
+        <h1>CLEVID <small>Web Development</small></h1>
+      </div>
 
       <!-------------Navbar------------->
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-inverse">
       <div class="container">
         <a class="navbar-brand" href="/clevid">Clevid</a>
         <ul class="nav navbar-nav">
