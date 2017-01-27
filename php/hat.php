@@ -53,7 +53,7 @@
   <div class="col-md-8">
     <br />
     <h1>Web Design and Developement<br />
-    <small>Clever Ideas for your personal or business goals!</small></h1>
+    <small>Clever Ideas for your Personal and Business Goals!</small></h1>
 
   </div><!--ColumnEnd-------------------->
 </div><!--HeaderRow---------------------->

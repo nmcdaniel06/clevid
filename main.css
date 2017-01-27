@@ -1,71 +1,17 @@
 body {
   margin-top: 50px;
 }
-
-#admin {
-  padding-top: 0px;
-}
-
-hr {
-
-  border-top: 1px solid black;
-
-}
-
-input:focus {
-    background-color: #dff0d8;
-}
-input {
-  width: 50%;
-}
-
-.form-signin-heading {
-  padding: 1em;
-  background-color: #5cb85c;
+#navbar ul li a {
   color: white;
-  border-top-left-radius: 25px;
-  border-top-right-radius: 25px;
+
+}
+.navbar-default .navbar-brand {
+  color: white;
+}
+.navbar-default {
+  background-color: #333;
+}
+#consultation {
   text-align: center;
-  border: 1px solid #4cae4c;
-
-
-}
-
-.adminPanel {
-  background-color: #5cb85c;
-  padding: 1em;
-  border-top-left-radius: 25px;
-  border-top-right-radius: 25px;
-}
-
-.page-header h1 small {
-  color: #477050;
-}
-
-div.red h2 small {
-  color: red;
-}
-
-
-div.red h4 {
-  background-color: yellow;
-
-}
-
-.page-header {
-  margin-bottom: 0px;
-  border-bottom: 0px;
-}
-
-.navbar {
-  margin-bottom: 0px;
-  border-bottom: 0px;
-  border-radius: 0px;
-}
-
-.navbar-inverse {
-  margin-bottom: 0px;
-  border-bottom: 0px;
-  border-radius: 0px;
-
+  color: #f47b1a
 }
